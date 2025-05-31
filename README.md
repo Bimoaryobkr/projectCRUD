@@ -43,14 +43,13 @@ Dashboard adalah aplikasi web yang dibangun dengan React dan Vite, dirancang unt
 
 ```bash
 git clone https://github.com/Bimoaryobkr/projectCRUD
-cd proyek-dasbor
+cd projectCRUD
 ```
 
 ### 2. Instalasi Dependensi
 
 ```bash
 npm install
-cd proyek-dasbor
 ```
 
 ### 3. Melakukan Build
